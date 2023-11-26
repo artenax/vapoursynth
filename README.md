@@ -1,2 +1,2 @@
-# vapoursynth
+# About
 VapourSynth
